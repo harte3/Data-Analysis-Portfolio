@@ -1,0 +1,21 @@
+Sub Items,Type
+Turkey ,Meat
+Pastrami,Meat
+Roast beef,Meat
+Beef brisket,Meat
+Chicken,Meat
+Tuna ,Meat
+Bacon,Meat
+Meatball,Meat
+Steak,Meat
+Ham,Meat
+Lettuce,Toppings
+Tomato,Toppings
+Black olives,Toppings
+Onions,Toppings
+Green peppers,Toppings
+Spinach,Toppings
+Mayonnaise ,Condiments
+Mustard,Condiments 
+Honey mustard ,Condiments
+Ranch,Condiments 

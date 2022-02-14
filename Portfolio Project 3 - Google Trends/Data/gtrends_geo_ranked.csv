@@ -1,0 +1,511 @@
+geoName,Name,RelativePopularity,Locations,PercentageBreakdown,Rank
+Alabama,Subway,165,37540,57,1
+Alabama,Jimmy Johns,63,2755,21,2
+Alabama,Firehouse Subs,40,1200,13,3
+Alabama,Jersey Mikes,6,1973,2,4
+Alabama,Quiznos,5,500,1,5
+Alabama,Which Wich,4,431,1,5
+Alabama,Jason's Deli,4,300,1,5
+Alabama,Blimpie,0,156,0,8
+Alabama,Schlotzsky's,0,330,0,8
+Alabama,Potbelly Sandwich,0,474,0,8
+Alaska,Subway,2934,37540,82,1
+Alaska,Quiznos,300,500,8,2
+Alaska,Firehouse Subs,200,1200,5,3
+Alaska,Jimmy Johns,117,2755,3,4
+Alaska,Blimpie,0,156,0,5
+Alaska,Schlotzsky's,0,330,0,5
+Alaska,Jersey Mikes,0,1973,0,5
+Alaska,Which Wich,0,431,0,5
+Alaska,Potbelly Sandwich,0,474,0,5
+Alaska,Jason's Deli,0,300,0,5
+Arizona,Subway,262,37540,46,1
+Arizona,Jimmy Johns,193,2755,34,2
+Arizona,Firehouse Subs,39,1200,6,3
+Arizona,Quiznos,23,500,4,4
+Arizona,Jersey Mikes,25,1973,4,4
+Arizona,Blimpie,4,156,0,6
+Arizona,Schlotzsky's,0,330,0,6
+Arizona,Which Wich,4,431,0,6
+Arizona,Potbelly Sandwich,4,474,0,6
+Arizona,Jason's Deli,5,300,0,6
+Arkansas,Subway,301,37540,60,1
+Arkansas,Jimmy Johns,102,2755,20,2
+Arkansas,Firehouse Subs,54,1200,10,3
+Arkansas,Quiznos,25,500,5,4
+Arkansas,Jersey Mikes,5,1973,1,5
+Arkansas,Jason's Deli,6,300,1,5
+Arkansas,Blimpie,0,156,0,7
+Arkansas,Schlotzsky's,0,330,0,7
+Arkansas,Which Wich,3,431,0,7
+Arkansas,Potbelly Sandwich,2,474,0,7
+California,Subway,259,37540,70,1
+California,Jimmy Johns,40,2755,10,2
+California,Jersey Mikes,29,1973,7,3
+California,Quiznos,23,500,6,4
+California,Firehouse Subs,9,1200,2,5
+California,Which Wich,4,431,1,6
+California,Blimpie,0,156,0,7
+California,Schlotzsky's,0,330,0,7
+California,Potbelly Sandwich,0,474,0,7
+California,Jason's Deli,1,300,0,7
+Colorado,Jimmy Johns,181,2755,47,1
+Colorado,Subway,135,37540,35,2
+Colorado,Quiznos,20,500,5,3
+Colorado,Firehouse Subs,22,1200,5,3
+Colorado,Jersey Mikes,10,1973,2,5
+Colorado,Which Wich,10,431,2,5
+Colorado,Jason's Deli,4,300,1,7
+Colorado,Blimpie,0,156,0,8
+Colorado,Schlotzsky's,0,330,0,8
+Colorado,Potbelly Sandwich,1,474,0,8
+Connecticut,Subway,123,37540,79,1
+Connecticut,Jersey Mikes,14,1973,9,2
+Connecticut,Jimmy Johns,8,2755,5,3
+Connecticut,Quiznos,5,500,3,4
+Connecticut,Firehouse Subs,4,1200,2,5
+Connecticut,Blimpie,0,156,0,6
+Connecticut,Schlotzsky's,0,330,0,6
+Connecticut,Which Wich,0,431,0,6
+Connecticut,Potbelly Sandwich,0,474,0,6
+Connecticut,Jason's Deli,0,300,0,6
+Delaware,Subway,88,37540,65,1
+Delaware,Jimmy Johns,26,2755,19,2
+Delaware,Jersey Mikes,11,1973,8,3
+Delaware,Quiznos,8,500,5,4
+Delaware,Blimpie,0,156,0,5
+Delaware,Schlotzsky's,0,330,0,5
+Delaware,Firehouse Subs,1,1200,0,5
+Delaware,Which Wich,0,431,0,5
+Delaware,Potbelly Sandwich,0,474,0,5
+Delaware,Jason's Deli,0,300,0,5
+District of Columbia,Subway,141,37540,59,1
+District of Columbia,Jimmy Johns,52,2755,21,2
+District of Columbia,Quiznos,21,500,8,3
+District of Columbia,Firehouse Subs,10,1200,4,4
+District of Columbia,Jersey Mikes,8,1973,3,5
+District of Columbia,Potbelly Sandwich,4,474,1,6
+District of Columbia,Blimpie,0,156,0,7
+District of Columbia,Schlotzsky's,0,330,0,7
+District of Columbia,Which Wich,2,431,0,7
+District of Columbia,Jason's Deli,1,300,0,7
+Florida,Subway,127,37540,49,1
+Florida,Jimmy Johns,73,2755,28,2
+Florida,Firehouse Subs,32,1200,12,3
+Florida,Jersey Mikes,13,1973,5,4
+Florida,Quiznos,7,500,2,5
+Florida,Jason's Deli,3,300,1,6
+Florida,Blimpie,0,156,0,7
+Florida,Schlotzsky's,0,330,0,7
+Florida,Which Wich,0,431,0,7
+Florida,Potbelly Sandwich,0,474,0,7
+Georgia,Subway,169,37540,52,1
+Georgia,Jimmy Johns,83,2755,25,2
+Georgia,Firehouse Subs,37,1200,11,3
+Georgia,Quiznos,11,500,3,4
+Georgia,Jersey Mikes,11,1973,3,4
+Georgia,Which Wich,5,431,1,6
+Georgia,Jason's Deli,6,300,1,6
+Georgia,Blimpie,3,156,0,8
+Georgia,Schlotzsky's,0,330,0,8
+Georgia,Potbelly Sandwich,0,474,0,8
+Hawaii,Subway,1075,37540,83,1
+Hawaii,Jersey Mikes,79,1973,6,2
+Hawaii,Quiznos,75,500,5,3
+Hawaii,Jimmy Johns,48,2755,3,4
+Hawaii,Blimpie,0,156,0,5
+Hawaii,Schlotzsky's,0,330,0,5
+Hawaii,Firehouse Subs,10,1200,0,5
+Hawaii,Which Wich,2,431,0,5
+Hawaii,Potbelly Sandwich,0,474,0,5
+Hawaii,Jason's Deli,0,300,0,5
+Idaho,Jimmy Johns,384,2755,46,1
+Idaho,Subway,330,37540,39,2
+Idaho,Blimpie,40,156,4,3
+Idaho,Quiznos,30,500,3,4
+Idaho,Firehouse Subs,32,1200,3,4
+Idaho,Jersey Mikes,11,1973,1,6
+Idaho,Schlotzsky's,0,330,0,7
+Idaho,Which Wich,0,431,0,7
+Idaho,Potbelly Sandwich,0,474,0,7
+Idaho,Jason's Deli,0,300,0,7
+Illinois,Jimmy Johns,252,2755,49,1
+Illinois,Subway,204,37540,40,2
+Illinois,Quiznos,16,500,3,3
+Illinois,Jersey Mikes,19,1973,3,3
+Illinois,Firehouse Subs,11,1200,2,5
+Illinois,Blimpie,0,156,0,6
+Illinois,Schlotzsky's,0,330,0,6
+Illinois,Which Wich,0,431,0,6
+Illinois,Potbelly Sandwich,3,474,0,6
+Illinois,Jason's Deli,3,300,0,6
+Indiana,Jimmy Johns,275,2755,46,1
+Indiana,Subway,265,37540,45,2
+Indiana,Firehouse Subs,20,1200,3,3
+Indiana,Quiznos,11,500,1,4
+Indiana,Jersey Mikes,8,1973,1,4
+Indiana,Blimpie,0,156,0,6
+Indiana,Schlotzsky's,0,330,0,6
+Indiana,Which Wich,4,431,0,6
+Indiana,Potbelly Sandwich,2,474,0,6
+Indiana,Jason's Deli,1,300,0,6
+Iowa,Jimmy Johns,435,2755,52,1
+Iowa,Subway,320,37540,38,2
+Iowa,Quiznos,37,500,4,3
+Iowa,Firehouse Subs,23,1200,2,4
+Iowa,Blimpie,5,156,0,5
+Iowa,Schlotzsky's,0,330,0,5
+Iowa,Jersey Mikes,6,1973,0,5
+Iowa,Which Wich,6,431,0,5
+Iowa,Potbelly Sandwich,1,474,0,5
+Iowa,Jason's Deli,3,300,0,5
+Kansas,Subway,249,37540,43,1
+Kansas,Jimmy Johns,246,2755,43,1
+Kansas,Quiznos,29,500,5,3
+Kansas,Firehouse Subs,22,1200,3,4
+Kansas,Jersey Mikes,7,1973,1,5
+Kansas,Jason's Deli,10,300,1,5
+Kansas,Blimpie,0,156,0,7
+Kansas,Schlotzsky's,0,330,0,7
+Kansas,Which Wich,4,431,0,7
+Kansas,Potbelly Sandwich,2,474,0,7
+Kentucky,Subway,246,37540,49,1
+Kentucky,Jimmy Johns,197,2755,39,2
+Kentucky,Firehouse Subs,23,1200,4,3
+Kentucky,Quiznos,11,500,2,4
+Kentucky,Jersey Mikes,10,1973,2,4
+Kentucky,Blimpie,0,156,0,6
+Kentucky,Schlotzsky's,0,330,0,6
+Kentucky,Which Wich,3,431,0,6
+Kentucky,Potbelly Sandwich,2,474,0,6
+Kentucky,Jason's Deli,3,300,0,6
+Louisiana,Subway,309,37540,59,1
+Louisiana,Jimmy Johns,121,2755,23,2
+Louisiana,Firehouse Subs,36,1200,6,3
+Louisiana,Quiznos,30,500,5,4
+Louisiana,Jason's Deli,10,300,1,5
+Louisiana,Blimpie,0,156,0,6
+Louisiana,Schlotzsky's,0,330,0,6
+Louisiana,Jersey Mikes,5,1973,0,6
+Louisiana,Which Wich,5,431,0,6
+Louisiana,Potbelly Sandwich,0,474,0,6
+Maine,Subway,292,37540,84,1
+Maine,Firehouse Subs,30,1200,8,2
+Maine,Quiznos,8,500,2,3
+Maine,Jersey Mikes,7,1973,2,3
+Maine,Jimmy Johns,7,2755,2,3
+Maine,Blimpie,0,156,0,6
+Maine,Schlotzsky's,0,330,0,6
+Maine,Which Wich,0,431,0,6
+Maine,Potbelly Sandwich,0,474,0,6
+Maine,Jason's Deli,0,300,0,6
+Maryland,Subway,128,37540,60,1
+Maryland,Jimmy Johns,43,2755,20,2
+Maryland,Firehouse Subs,15,1200,7,3
+Maryland,Quiznos,12,500,5,4
+Maryland,Jersey Mikes,12,1973,5,4
+Maryland,Blimpie,0,156,0,6
+Maryland,Schlotzsky's,0,330,0,6
+Maryland,Which Wich,0,431,0,6
+Maryland,Potbelly Sandwich,2,474,0,6
+Maryland,Jason's Deli,1,300,0,6
+Massachusetts,Subway,101,37540,77,1
+Massachusetts,Jimmy Johns,13,2755,9,2
+Massachusetts,Quiznos,6,500,4,3
+Massachusetts,Jersey Mikes,6,1973,4,3
+Massachusetts,Firehouse Subs,4,1200,3,5
+Massachusetts,Blimpie,0,156,0,6
+Massachusetts,Schlotzsky's,0,330,0,6
+Massachusetts,Which Wich,0,431,0,6
+Massachusetts,Potbelly Sandwich,1,474,0,6
+Massachusetts,Jason's Deli,0,300,0,6
+Michigan,Jimmy Johns,206,2755,46,1
+Michigan,Subway,196,37540,44,2
+Michigan,Quiznos,12,500,2,3
+Michigan,Firehouse Subs,13,1200,2,3
+Michigan,Jersey Mikes,10,1973,2,3
+Michigan,Blimpie,0,156,0,6
+Michigan,Schlotzsky's,0,330,0,6
+Michigan,Which Wich,0,431,0,6
+Michigan,Potbelly Sandwich,2,474,0,6
+Michigan,Jason's Deli,0,300,0,6
+Minnesota,Jimmy Johns,400,2755,53,1
+Minnesota,Subway,280,37540,37,2
+Minnesota,Quiznos,24,500,3,3
+Minnesota,Firehouse Subs,16,1200,2,4
+Minnesota,Jersey Mikes,16,1973,2,4
+Minnesota,Blimpie,0,156,0,6
+Minnesota,Schlotzsky's,0,330,0,6
+Minnesota,Which Wich,5,431,0,6
+Minnesota,Potbelly Sandwich,2,474,0,6
+Minnesota,Jason's Deli,2,300,0,6
+Mississippi,Subway,539,37540,67,1
+Mississippi,Jimmy Johns,146,2755,18,2
+Mississippi,Firehouse Subs,67,1200,8,3
+Mississippi,Quiznos,26,500,3,4
+Mississippi,Which Wich,10,431,1,5
+Mississippi,Blimpie,0,156,0,6
+Mississippi,Schlotzsky's,0,330,0,6
+Mississippi,Jersey Mikes,3,1973,0,6
+Mississippi,Potbelly Sandwich,1,474,0,6
+Mississippi,Jason's Deli,7,300,0,6
+Missouri,Subway,213,37540,44,1
+Missouri,Jimmy Johns,214,2755,44,1
+Missouri,Firehouse Subs,27,1200,5,3
+Missouri,Quiznos,20,500,4,4
+Missouri,Blimpie,0,156,0,5
+Missouri,Schlotzsky's,0,330,0,5
+Missouri,Jersey Mikes,3,1973,0,5
+Missouri,Which Wich,0,431,0,5
+Missouri,Potbelly Sandwich,2,474,0,5
+Missouri,Jason's Deli,3,300,0,5
+Montana,Jimmy Johns,1484,2755,64,1
+Montana,Subway,650,37540,28,2
+Montana,Quiznos,83,500,3,3
+Montana,Jersey Mikes,50,1973,2,4
+Montana,Firehouse Subs,34,1200,1,5
+Montana,Blimpie,0,156,0,6
+Montana,Schlotzsky's,0,330,0,6
+Montana,Which Wich,0,431,0,6
+Montana,Potbelly Sandwich,0,474,0,6
+Montana,Jason's Deli,0,300,0,6
+Nebraska,Jimmy Johns,477,2755,56,1
+Nebraska,Subway,279,37540,33,2
+Nebraska,Quiznos,28,500,3,3
+Nebraska,Firehouse Subs,31,1200,3,3
+Nebraska,Jersey Mikes,12,1973,1,5
+Nebraska,Blimpie,4,156,0,6
+Nebraska,Schlotzsky's,0,330,0,6
+Nebraska,Which Wich,6,431,0,6
+Nebraska,Potbelly Sandwich,0,474,0,6
+Nebraska,Jason's Deli,7,300,0,6
+Nevada,Subway,261,37540,50,1
+Nevada,Jimmy Johns,150,2755,29,2
+Nevada,Firehouse Subs,46,1200,8,3
+Nevada,Quiznos,31,500,6,4
+Nevada,Jersey Mikes,18,1973,3,5
+Nevada,Jason's Deli,8,300,1,6
+Nevada,Blimpie,0,156,0,7
+Nevada,Schlotzsky's,0,330,0,7
+Nevada,Which Wich,0,431,0,7
+Nevada,Potbelly Sandwich,0,474,0,7
+New Hampshire,Subway,131,37540,81,1
+New Hampshire,Firehouse Subs,9,1200,5,2
+New Hampshire,Quiznos,7,500,4,3
+New Hampshire,Jersey Mikes,7,1973,4,3
+New Hampshire,Jimmy Johns,7,2755,4,3
+New Hampshire,Blimpie,0,156,0,6
+New Hampshire,Schlotzsky's,0,330,0,6
+New Hampshire,Which Wich,0,431,0,6
+New Hampshire,Potbelly Sandwich,0,474,0,6
+New Hampshire,Jason's Deli,0,300,0,6
+New Jersey,Subway,76,37540,55,1
+New Jersey,Jersey Mikes,24,1973,17,2
+New Jersey,Jimmy Johns,16,2755,11,3
+New Jersey,Blimpie,10,156,7,4
+New Jersey,Quiznos,6,500,4,5
+New Jersey,Firehouse Subs,3,1200,2,6
+New Jersey,Schlotzsky's,0,330,0,7
+New Jersey,Which Wich,0,431,0,7
+New Jersey,Potbelly Sandwich,0,474,0,7
+New Jersey,Jason's Deli,1,300,0,7
+New Mexico,Subway,239,37540,57,1
+New Mexico,Jimmy Johns,95,2755,23,2
+New Mexico,Firehouse Subs,33,1200,7,3
+New Mexico,Quiznos,17,500,4,4
+New Mexico,Jersey Mikes,12,1973,2,5
+New Mexico,Jason's Deli,10,300,2,5
+New Mexico,Which Wich,7,431,1,7
+New Mexico,Blimpie,0,156,0,8
+New Mexico,Schlotzsky's,0,330,0,8
+New Mexico,Potbelly Sandwich,0,474,0,8
+New York,Subway,179,37540,78,1
+New York,Jimmy Johns,21,2755,9,2
+New York,Quiznos,9,500,3,3
+New York,Jersey Mikes,9,1973,3,3
+New York,Blimpie,3,156,1,5
+New York,Firehouse Subs,4,1200,1,5
+New York,Schlotzsky's,0,330,0,7
+New York,Which Wich,0,431,0,7
+New York,Potbelly Sandwich,1,474,0,7
+New York,Jason's Deli,1,300,0,7
+North Carolina,Subway,111,37540,46,1
+North Carolina,Jimmy Johns,68,2755,28,2
+North Carolina,Firehouse Subs,21,1200,8,3
+North Carolina,Jersey Mikes,21,1973,8,3
+North Carolina,Quiznos,6,500,2,5
+North Carolina,Which Wich,6,431,2,5
+North Carolina,Jason's Deli,4,300,1,7
+North Carolina,Blimpie,0,156,0,8
+North Carolina,Schlotzsky's,0,330,0,8
+North Carolina,Potbelly Sandwich,0,474,0,8
+North Dakota,Jimmy Johns,355,2755,50,1
+North Dakota,Subway,268,37540,38,2
+North Dakota,Firehouse Subs,35,1200,5,3
+North Dakota,Quiznos,32,500,4,4
+North Dakota,Jersey Mikes,10,1973,1,5
+North Dakota,Blimpie,0,156,0,6
+North Dakota,Schlotzsky's,0,330,0,6
+North Dakota,Which Wich,0,431,0,6
+North Dakota,Potbelly Sandwich,0,474,0,6
+North Dakota,Jason's Deli,0,300,0,6
+Ohio,Subway,227,37540,53,1
+Ohio,Jimmy Johns,147,2755,34,2
+Ohio,Firehouse Subs,17,1200,4,3
+Ohio,Jersey Mikes,17,1973,4,3
+Ohio,Quiznos,10,500,2,5
+Ohio,Blimpie,0,156,0,6
+Ohio,Schlotzsky's,0,330,0,6
+Ohio,Which Wich,0,431,0,6
+Ohio,Potbelly Sandwich,1,474,0,6
+Ohio,Jason's Deli,2,300,0,6
+Oklahoma,Subway,150,37540,54,1
+Oklahoma,Jimmy Johns,70,2755,25,2
+Oklahoma,Firehouse Subs,19,1200,6,3
+Oklahoma,Quiznos,13,500,4,4
+Oklahoma,Jersey Mikes,10,1973,3,5
+Oklahoma,Jason's Deli,7,300,2,6
+Oklahoma,Schlotzsky's,3,330,1,7
+Oklahoma,Blimpie,0,156,0,8
+Oklahoma,Which Wich,2,431,0,8
+Oklahoma,Potbelly Sandwich,0,474,0,8
+Oregon,Subway,404,37540,54,1
+Oregon,Jimmy Johns,237,2755,32,2
+Oregon,Quiznos,38,500,5,3
+Oregon,Firehouse Subs,31,1200,4,4
+Oregon,Jersey Mikes,23,1973,3,5
+Oregon,Blimpie,0,156,0,6
+Oregon,Schlotzsky's,0,330,0,6
+Oregon,Which Wich,0,431,0,6
+Oregon,Potbelly Sandwich,3,474,0,6
+Oregon,Jason's Deli,0,300,0,6
+Pennsylvania,Subway,132,37540,67,1
+Pennsylvania,Jimmy Johns,41,2755,20,2
+Pennsylvania,Firehouse Subs,8,1200,4,3
+Pennsylvania,Jersey Mikes,9,1973,4,3
+Pennsylvania,Quiznos,5,500,2,5
+Pennsylvania,Blimpie,0,156,0,6
+Pennsylvania,Schlotzsky's,0,330,0,6
+Pennsylvania,Which Wich,0,431,0,6
+Pennsylvania,Potbelly Sandwich,0,474,0,6
+Pennsylvania,Jason's Deli,1,300,0,6
+Rhode Island,Subway,125,37540,86,1
+Rhode Island,Jersey Mikes,11,1973,7,2
+Rhode Island,Jimmy Johns,5,2755,3,3
+Rhode Island,Quiznos,2,500,1,4
+Rhode Island,Firehouse Subs,2,1200,1,4
+Rhode Island,Blimpie,0,156,0,6
+Rhode Island,Schlotzsky's,0,330,0,6
+Rhode Island,Which Wich,0,431,0,6
+Rhode Island,Potbelly Sandwich,0,474,0,6
+Rhode Island,Jason's Deli,0,300,0,6
+South Carolina,Subway,159,37540,48,1
+South Carolina,Jimmy Johns,80,2755,24,2
+South Carolina,Firehouse Subs,52,1200,15,3
+South Carolina,Jersey Mikes,23,1973,6,4
+South Carolina,Quiznos,5,500,1,5
+South Carolina,Which Wich,5,431,1,5
+South Carolina,Blimpie,3,156,0,7
+South Carolina,Schlotzsky's,0,330,0,7
+South Carolina,Potbelly Sandwich,0,474,0,7
+South Carolina,Jason's Deli,2,300,0,7
+South Dakota,Jimmy Johns,480,2755,51,1
+South Dakota,Subway,380,37540,40,2
+South Dakota,Quiznos,30,500,3,3
+South Dakota,Firehouse Subs,24,1200,2,4
+South Dakota,Potbelly Sandwich,10,474,1,5
+South Dakota,Blimpie,0,156,0,6
+South Dakota,Schlotzsky's,0,330,0,6
+South Dakota,Jersey Mikes,6,1973,0,6
+South Dakota,Which Wich,0,431,0,6
+South Dakota,Jason's Deli,0,300,0,6
+Tennessee,Subway,159,37540,51,1
+Tennessee,Jimmy Johns,80,2755,25,2
+Tennessee,Firehouse Subs,39,1200,12,3
+Tennessee,Jersey Mikes,11,1973,3,4
+Tennessee,Quiznos,8,500,2,5
+Tennessee,Which Wich,5,431,1,6
+Tennessee,Jason's Deli,6,300,1,6
+Tennessee,Blimpie,0,156,0,8
+Tennessee,Schlotzsky's,0,330,0,8
+Tennessee,Potbelly Sandwich,0,474,0,8
+Texas,Subway,174,37540,49,1
+Texas,Jimmy Johns,94,2755,26,2
+Texas,Firehouse Subs,24,1200,6,3
+Texas,Jason's Deli,20,300,5,4
+Texas,Quiznos,14,500,3,5
+Texas,Jersey Mikes,11,1973,3,5
+Texas,Which Wich,11,431,3,5
+Texas,Schlotzsky's,5,330,1,8
+Texas,Blimpie,0,156,0,9
+Texas,Potbelly Sandwich,1,474,0,9
+Utah,Jimmy Johns,1053,2755,49,1
+Utah,Subway,809,37540,37,2
+Utah,Firehouse Subs,104,1200,4,3
+Utah,Quiznos,78,500,3,4
+Utah,Jersey Mikes,65,1973,3,4
+Utah,Blimpie,10,156,0,6
+Utah,Schlotzsky's,0,330,0,6
+Utah,Which Wich,0,431,0,6
+Utah,Potbelly Sandwich,13,474,0,6
+Utah,Jason's Deli,9,300,0,6
+Vermont,Subway,197,37540,84,1
+Vermont,Quiznos,16,500,6,2
+Vermont,Jimmy Johns,13,2755,5,3
+Vermont,Jersey Mikes,5,1973,2,4
+Vermont,Blimpie,0,156,0,5
+Vermont,Schlotzsky's,0,330,0,5
+Vermont,Firehouse Subs,2,1200,0,5
+Vermont,Which Wich,0,431,0,5
+Vermont,Potbelly Sandwich,0,474,0,5
+Vermont,Jason's Deli,0,300,0,5
+Virginia,Subway,145,37540,54,1
+Virginia,Jimmy Johns,65,2755,24,2
+Virginia,Firehouse Subs,24,1200,8,3
+Virginia,Jersey Mikes,14,1973,5,4
+Virginia,Quiznos,10,500,3,5
+Virginia,Which Wich,4,431,1,6
+Virginia,Jason's Deli,3,300,1,6
+Virginia,Blimpie,0,156,0,8
+Virginia,Schlotzsky's,0,330,0,8
+Virginia,Potbelly Sandwich,2,474,0,8
+Washington,Subway,298,37540,48,1
+Washington,Jimmy Johns,232,2755,37,2
+Washington,Quiznos,49,500,7,3
+Washington,Jersey Mikes,22,1973,3,4
+Washington,Firehouse Subs,11,1200,1,5
+Washington,Blimpie,0,156,0,6
+Washington,Schlotzsky's,0,330,0,6
+Washington,Which Wich,0,431,0,6
+Washington,Potbelly Sandwich,2,474,0,6
+Washington,Jason's Deli,0,300,0,6
+West Virginia,Subway,292,37540,66,1
+West Virginia,Jimmy Johns,102,2755,23,2
+West Virginia,Firehouse Subs,24,1200,5,3
+West Virginia,Jersey Mikes,12,1973,2,4
+West Virginia,Quiznos,8,500,1,5
+West Virginia,Blimpie,0,156,0,6
+West Virginia,Schlotzsky's,0,330,0,6
+West Virginia,Which Wich,0,431,0,6
+West Virginia,Potbelly Sandwich,0,474,0,6
+West Virginia,Jason's Deli,0,300,0,6
+Wisconsin,Jimmy Johns,337,2755,52,1
+Wisconsin,Subway,257,37540,39,2
+Wisconsin,Quiznos,19,500,2,3
+Wisconsin,Firehouse Subs,19,1200,2,3
+Wisconsin,Jersey Mikes,9,1973,1,5
+Wisconsin,Blimpie,0,156,0,6
+Wisconsin,Schlotzsky's,0,330,0,6
+Wisconsin,Which Wich,0,431,0,6
+Wisconsin,Potbelly Sandwich,2,474,0,6
+Wisconsin,Jason's Deli,1,300,0,6
+Wyoming,Jimmy Johns,791,2755,51,1
+Wyoming,Subway,600,37540,38,2
+Wyoming,Quiznos,125,500,8,3
+Wyoming,Jersey Mikes,18,1973,1,4
+Wyoming,Blimpie,8,156,0,5
+Wyoming,Schlotzsky's,0,330,0,5
+Wyoming,Firehouse Subs,0,1200,0,5
+Wyoming,Which Wich,0,431,0,5
+Wyoming,Potbelly Sandwich,0,474,0,5
+Wyoming,Jason's Deli,0,300,0,5
